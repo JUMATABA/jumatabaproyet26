@@ -19,18 +19,15 @@ function Footer() {
             <ul className="footer-contact-list">
               <li>
                 <span className="contact-icon">📧</span>
-                <a href="mailto:info@consultoriaantisismica.com">
-                  info@consultoriaantisismica.com
+                <a href="mailto:jumataba@antisismica.onmicrosoft.com">
+                  jumataba@antisismica.onmicrosoft.com
                 </a>
               </li>
               <li>
                 <span className="contact-icon">📞</span>
-                <a href="tel:+1234567890">+1 (234) 567-890</a>
+                <a href="tel:+57234567890">+57 (234) 567-890</a>
               </li>
-              <li>
-                <span className="contact-icon">📍</span>
-                <span>Av. Principal 123, Ciudad</span>
-              </li>
+             
             </ul>
           </div>
 
