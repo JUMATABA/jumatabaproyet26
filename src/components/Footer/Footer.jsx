@@ -25,7 +25,7 @@ function Footer() {
               </li>
               <li>
                 <span className="contact-icon">📞</span>
-                <a href="tel:+57234567890">+57 (234) 567-890</a>
+                <a href="tel:+573196032255">+57 (319) 603-2255</a>
               </li>
              
             </ul>
