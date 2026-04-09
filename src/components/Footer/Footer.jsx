@@ -19,9 +19,8 @@ function Footer() {
             <ul className="footer-contact-list">
               <li>
                 <span className="contact-icon">📧</span>
-                <a href="mailto:jumataba@antisismica.onmicrosoft.com">
-                  jumataba@antisismica.onmicrosoft.com
-                </a>
+                <a href="mailto:antisismica@jumatabaproyect26.onrender.com">
+                  antisismica@jumatabaproyect26.onrender.com                </a>
               </li>
               <li>
                 <span className="contact-icon">📞</span>
